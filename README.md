@@ -1,2 +1,2 @@
-# DS-Ultrasound-Nerve-Segmentation
-Data Science+ Team 3
+# Team 3 Ultrasound
+Duke Data Science+
